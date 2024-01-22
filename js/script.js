@@ -1,17 +1,17 @@
 let imagesData = [{
-  url: "img/interoom.png",
+  url: "./img/interoom.png",
   city: "Rostov-on-Don",
   cityApart:  "LCD admiral",
   area: "81 m2",
   repairTime: "3.5 months"
 }, {
-  url: "img/interoom2.png",
+  url: "./img/interoom2.png",
   city: "Sochi",
   cityApart: "Thieves",
   area: "105 m2",
   repairTime: "4 months"
 }, {
-  url: "img/interoom3.png",
+  url: "./img/interoom3.png",
   city: "Rostov-on-Don",
   cityApart: "Patriotic",
   area: "93 m2",
